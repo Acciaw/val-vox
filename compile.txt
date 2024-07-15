@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "assets;assets" -c -i icon.ico --hidden-import colorama --hidden-import pyaudio --hidden-import pynput --hidden-import playsound --hidden-import pygame main.py

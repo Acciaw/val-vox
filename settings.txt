@@ -1,0 +1,9 @@
+{
+    "keys": {
+        "mute": "f8"
+    },
+    "microphone": null,
+    "threshold": 300,
+    "silence_duration": 0.5,
+    "muted_by_default": false
+}
