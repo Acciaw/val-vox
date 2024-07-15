@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <a href="https://creativecommons.org/licenses/by-nc/4.0/" style="display: inline-block;">
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/"">
         <img src="https://img.shields.io/badge/Project%20License-CC%20BY--NC%204.0-blue" alt="License CC BY-NC"/>
     </a>
 </p>
