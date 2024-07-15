@@ -20,9 +20,11 @@
 2. Choose a directory of your preference and place the file there. Run the executable.
 3. Note the number associated with your microphone used in Valorant, then close the command prompt.
 4. Open the settings.txt file located in the same directory as the executable file and modify the "microphone" setting from null to the previously noted number. Ensure the comma remains after the number.
-5. Optionally adjust other settings in the file, ensuring commas are correctly placed next to each value.
+5. Optionally adjust [other settings in the file](#Settings), ensuring commas are correctly placed next to each value. 
 6. Save and close the settings.txt file, then relaunch the executable.
 7. Enjoy using the tool!
+
+## Settings
 
 ## Dependencies
 
