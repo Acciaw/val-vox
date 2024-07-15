@@ -4,9 +4,8 @@
   <img src="https://github.com/user-attachments/assets/d55a669f-c3a2-494b-964e-90924c4a936e" alt="Val-Vox Logo"  width="350" height="350"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20License-GPL%20v3-darkgreen" alt="License GPLv3" href="https://www.gnu.org/licenses/quick-guide-gplv3.en.html"/>
-  <img src="https://img.shields.io/badge/Text%20License-CC%20BY--SA%204.0-blue" alt="License CC BY-SA"/>
+<a align="center" href="https://creativecommons.org/licenses/by-nc/4.0/">
+  <img src="https://img.shields.io/badge/Text%20License-CC%20BY--NC%204.0-blue" alt="License CC BY-NC"/>
 </p>
 
 <p align="center">Val-Vox is a Python-based program designed to enable Valorant players to utilize automatic microphone detection within team voice chat. This functionality, originally restricted to Valorant's party chat feature, is now extended universally through Val-Vox, offering a lightweight solution for seamless communication during gameplay.</p>
@@ -25,6 +24,13 @@
 7. Enjoy using the tool!
 
 ## Settings
+
+Here is a list of the different settings you can adjust in the settings.txt file along with their function:
+- "mute": Adjusts the key used for muting while the program is running.
+- "microphone": Sets the microphone input used, ideally matching the one configured in Valorant.
+- "threshold": Controls the activation sensitivity of the microphone, determining when the push-to-talk key is triggered in-game.
+- "silence_duration": Sets a delay before releasing the push-to-talk key in-game based on the duration of silence detected.
+- "muted_by_default": Enables instant muting upon program startup.
 
 ## Dependencies
 
