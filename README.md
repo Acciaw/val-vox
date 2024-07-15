@@ -17,7 +17,7 @@
 > 🚨
 > Please use this project at your own risk. We cannot guarantee that it is 100% ban-proof, so please be aware of any potential risks, albeit very minimal, while using this tool.
 
-1. Download the executable file from the releases tab.
+1. [Download the executable file from the releases tab.](https://github.com/Acciaw/val-vox/releases/latest)
 2. Choose a directory of your preference and place the file there. Run the executable.
 3. Note the number associated with your microphone used in Valorant, then close the command prompt.
 4. Open the settings.txt file located in the same directory as the executable file and modify the "microphone" setting from null to the previously noted number. Ensure the comma remains after the number.
