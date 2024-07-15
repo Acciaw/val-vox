@@ -4,9 +4,11 @@
   <img src="https://github.com/user-attachments/assets/d55a669f-c3a2-494b-964e-90924c4a936e" alt="Val-Vox Logo"  width="350" height="350"/>
 </p>
 
+<div style="text-align: center;">
 <a align="center" href="https://creativecommons.org/licenses/by-nc/4.0/">
-<center><img src="https://img.shields.io/badge/Project%20License-CC%20BY--NC%204.0-blue" alt="License CC BY-NC"/></center>
+<img src="https://img.shields.io/badge/Project%20License-CC%20BY--NC%204.0-blue" alt="License CC BY-NC"/>
 </a>
+</div>
 
 <p align="center">Val-Vox is a Python-based program designed to enable Valorant players to utilize automatic microphone detection within team voice chat. This functionality, originally restricted to Valorant's party chat feature, is now extended universally through Val-Vox, offering a lightweight solution for seamless communication during gameplay.</p>
 
