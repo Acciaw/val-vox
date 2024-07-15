@@ -1,7 +1,7 @@
 # Val-Vox
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef928b8a-3217-47ad-8bd9-5f2e336b655d" alt="Val-Vox Logo"  width="350" height="350"/>
+  <img src="[https://github.com/user-attachments/assets/ef928b8a-3217-47ad-8bd9-5f2e336b655d](https://github.com/user-attachments/assets/d55a669f-c3a2-494b-964e-90924c4a936e)" alt="Val-Vox Logo"  width="350" height="350"/>
 </p>
 
 <p align="center">
