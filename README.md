@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/d55a669f-c3a2-494b-964e-90924c4a936e" alt="Val-Vox Logo"  width="350" height="350"/>
 </p>
 
-<a text-align="center" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
+<a align="center" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
   <img src="https://img.shields.io/badge/Project%20License-CC%20BY--NC%204.0-blue" alt="License CC BY-NC"/>
 </p>
 
