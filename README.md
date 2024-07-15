@@ -23,7 +23,12 @@
 4. Open the settings.txt file located in the same directory as the executable file and modify the "microphone" setting from null to the previously noted number. Ensure the comma remains after the number.
 5. Optionally adjust [other settings in the file](#Settings), ensuring commas are correctly placed next to each value. 
 6. Save and close the settings.txt file, then relaunch the executable.
-7. Enjoy using the tool!
+7. Open up Valorant. In your settings, go to CONTROLS > COMMUNICATION and select the Team Voice Push To Talk Key. Ensuring you're unmuted in Val-Vox, activate your microphone by making any noise. This should change your Team Voice Push To Talk Key to Scroll Lock.
+
+![2024-07-15 17_08_48-VALORANT](https://github.com/user-attachments/assets/5ce2c6c6-b356-4f6f-b552-f0b6f65ddec9)
+
+
+8. Enjoy using the tool!
 
 ## Settings
 
